@@ -1,0 +1,11 @@
+h2{
+    color: white;
+    font-size: 50px;
+    
+}
+body{
+    background-image:url("istockphoto-1150477705-612x612.jpg") ;
+}
+.a:hover h2{
+    color: rgb(255, 238, 0);
+}
